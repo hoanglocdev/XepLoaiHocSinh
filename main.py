@@ -110,7 +110,7 @@ while True:
             print(f"   TB = {diem_tb:.2f}  =>  Xếp loại: {loai}")
 
     elif lua_chon == "0":
-        print("👋 Tạm biệt! Kết thúc chương trình.")
+        print("Tạm biệt! Kết thúc chương trình.")
         break
 
     else:
